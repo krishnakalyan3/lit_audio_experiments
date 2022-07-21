@@ -127,6 +127,7 @@ infra
 data
 coverage.*
 # Frontend build artifacts
+mlruns/*
 
 lightning_logs
 .storage

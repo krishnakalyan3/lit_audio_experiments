@@ -7,7 +7,6 @@ import subprocess
 from lightning_app.storage import Drive
 #from lit_vscode import VSCodeServer
 
-
 class MLFlowWork(L.LightningWork):
     def __init__(self, cloud_compute: Optional[L.CloudCompute] = None):
         super().__init__(cloud_compute=cloud_compute, parallel=True)

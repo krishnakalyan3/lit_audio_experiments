@@ -1,3 +1,6 @@
-lighning
 https://github.com/krishnakalyan3/mlflow/releases/download/v1.27.0/mlflow-1.27.1.dev0-py3-none-any.whl
 git+https://github.com/krishnakalyan3/vscode_component
+scikit-learn
+pandas
+numpy
+mlflow
